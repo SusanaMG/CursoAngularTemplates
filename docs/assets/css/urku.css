@@ -2123,7 +2123,8 @@ body {
     width: 85%;
   }
   #mobile-menu:checked ~ .rk-topbar .rk-search label {
-    display: none;
+    /*display: none;*/
+    display: center;
   }
   #mobile-menu:checked ~ .rk-topbar .rk-search-field {
     opacity: 1;
